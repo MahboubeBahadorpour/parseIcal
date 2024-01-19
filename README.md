@@ -16,4 +16,7 @@ print_r($ical);
 ### Authors: 
 Hossein Sadeghi
 
-@hsa599
+------------
+
+
+https://github.com/hsa599/parseIcal
