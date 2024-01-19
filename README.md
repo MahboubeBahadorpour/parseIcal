@@ -1,3 +1,18 @@
-# PHP Simple ParseIcal from URL
+## PHP Simple ParseIcal from URL
 
-$ical = parseIcal("https://www.airbnb.ae/calendar/ical/1014173060435771888.ics?s=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+Airbnb Code Sample:
+
+
+
+```php
+include_once(ical.php);
+
+$ical = parseIcal("https://www.airbnb.ae/calendar/ical/1014173060435771888.ics?s=xxxxx");
+
+print_r($ical);
+
+```
+
+###Authors: 
+Hossein Sadeghi
+@hsa599
