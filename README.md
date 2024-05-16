@@ -1,4 +1,4 @@
-## PHP Simple ParseIcal from URL
+## Airbnb Simple Parse Ical from URL
 
 Airbnb Code Sample:
 
@@ -14,9 +14,9 @@ print_r($ical);
 ```
 
 ### Authors: 
-Hossein Sadeghi
+[Hossein Sadeghi](https://github.com/hsa599/parseIcal/).
+
 
 ------------
 
 
-https://github.com/hsa599/parseIcal
